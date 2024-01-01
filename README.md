@@ -18,7 +18,7 @@ This video by Sebastian Lague explains the algorithm: [Travelling Salesman Probl
 
 We can further optimize and use the best path we have gotten and do some random swaps for a given alpha value. This is called local search in which we now search for the best path from the given output of the current one.
 
-In my implementation, I have found using at least `(n*2)` ants improves the number of iterations before a steady solution is settled on.
+In my implementation, I have found using at least `(n*2)` ants reduces the number of iterations before a steady solution is settled on.
 
 Do note that however I have not implemented the local search optimization.
 
