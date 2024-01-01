@@ -22,6 +22,12 @@ In my implementation, I have found using at least `(n*2)` ants reduces the numbe
 
 Do note that however I have not implemented the local search optimization.
 
+## Usage
+
+1. To pause the simulation, press the `p` key.
+2. To resume the simulation, press the `p` key.
+3. To reset the simulation, press the `r` key.
+
 ## Demo
 
 <img src="https://raw.githubusercontent.com/ghostscypher/travelling_salesman/output/demo.gif" alt="Travelling Salesman Problem">
